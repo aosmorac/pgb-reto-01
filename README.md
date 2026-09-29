@@ -116,5 +116,5 @@ Los documentos del reto son estructurados, tienen una sola página y contienen t
 
 ## Diseño
 
-La interfaz toma como referencia el lenguaje visual de `voitity-admin`: navegación lateral oscura, superficies claras, densidad de dashboard, tipografía Plus Jakarta Sans, tarjetas blancas y acento índigo. Se implementó desde cero para mantener el reto independiente y liviano.
+La interfaz toma como referencia otros proyectos: navegación lateral oscura, superficies claras, densidad de dashboard, tipografía Plus Jakarta Sans, tarjetas blancas y acento índigo. Se implementó desde cero para mantener el reto independiente y liviano.
 
